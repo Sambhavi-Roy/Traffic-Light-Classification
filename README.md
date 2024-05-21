@@ -79,3 +79,7 @@ Decision trees achieved an accuracy of 91%, Logistic Regression 92% and Support 
 
 Logistic Regression achieved an accuracy of 93% on training dataset, Decision Trees 91% and Support Vector Machine achieved an accuracy of 94% on night testing dataset
 
+
+
+REFERENCES:
+https://www.kaggle.com/code/marco22daniel/traffic-light-classification
